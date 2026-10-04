@@ -242,13 +242,3 @@ The application also provides search, category navigation, customer feedback, an
 **Program Studi Teknik Komputer**
 **Fakultas Sains dan Teknologi**
 **Universitas Muhammadiyah Karanganyar**
-
-## 🎓 Academic Project
-
-This repository was developed as a university web project and is intended primarily for educational and demonstration purposes.
-
-## 📄 License
-
-This project is provided for educational purposes.
-
-No commercial use or redistribution policy is specified in the original project documentation.
