@@ -1,0 +1,128 @@
+Folder PATH listing for volume New Volume
+Volume serial number is EC75-9EBF
+D:.
+|   README.md.txt
+|   struktur.txt
+|   
++---docs
+\---software
+    \---ecommerce
+        |   about.php
+        |   cart.php
+        |   category.php
+        |   checkout.php
+        |   contact.php
+        |   home.php
+        |   orders.php
+        |   quick_view.php
+        |   search_page.php
+        |   shop.php
+        |   update_user.php
+        |   user_login.php
+        |   user_register.php
+        |   wishlist.php
+        |   
+        +---admin
+        |       admin_accounts.php
+        |       admin_login.php
+        |       dashboard.php
+        |       messages.php
+        |       placed_orders.php
+        |       products.php
+        |       register_admin.php
+        |       update_product.php
+        |       update_profile.php
+        |       users_accounts.php
+        |       
+        +---components
+        |       admin_header.php
+        |       admin_logout.php
+        |       connect.php
+        |       footer.php
+        |       user_header.php
+        |       user_logout.php
+        |       wishlist_cart.php
+        |       
+        +---css
+        |       admin_style.css
+        |       style.css
+        |       
+        +---database
+        |       shop_db.sql
+        |       
+        +---images
+        |       about-img.svg
+        |       home-bg.png
+        |       home-img-1.png
+        |       home-img-2.png
+        |       home-img-3.png
+        |       icon-1.png
+        |       icon-2.png
+        |       icon-3.png
+        |       icon-4.png
+        |       icon-5.png
+        |       icon-6.png
+        |       icon-7.png
+        |       icon-8.png
+        |       pic-1.png
+        |       pic-2.png
+        |       pic-3.png
+        |       pic-4.png
+        |       pic-5.png
+        |       pic-6.png
+        |       
+        +---js
+        |       admin_script.js
+        |       script.js
+        |       
+        +---project images
+        |       camera-1.webp
+        |       camera-2.webp
+        |       camera-3.webp
+        |       fridge-1.webp
+        |       fridge-2.webp
+        |       fridge-3.webp
+        |       laptop-1.webp
+        |       laptop-2.webp
+        |       laptop-3.webp
+        |       mixer-1.webp
+        |       mixer-2.webp
+        |       mixer-3.webp
+        |       mouse-1.webp
+        |       mouse-2.webp
+        |       mouse-3.webp
+        |       smartphone-1.webp
+        |       smartphone-2.webp
+        |       smartphone-3.webp
+        |       tv-01.webp
+        |       tv-02.webp
+        |       tv-03.webp
+        |       washing machine-1.webp
+        |       washing machine-2.webp
+        |       washing machine-3.webp
+        |       watch-1.webp
+        |       watch-2.webp
+        |       watch-3.webp
+        |       
+        \---uploaded_img
+                camera-1.webp
+                camera-2.webp
+                camera-3.webp
+                fridge-1.webp
+                fridge-2.webp
+                fridge-3.webp
+                kampas.jpg
+                laptop-2.webp
+                laptop-3.webp
+                laptop.jpg
+                mouse-1.webp
+                mouse-2.webp
+                mouse-3.webp
+                piston.jpg
+                smartphone-1.webp
+                smartphone-2.webp
+                smartphone-3.webp
+                tv-01.webp
+                tv-02.webp
+                tv-03.webp
+                

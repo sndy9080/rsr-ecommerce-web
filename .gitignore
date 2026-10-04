@@ -1,0 +1,87 @@
+# =========================================================
+# RSR E-Commerce Web - Git Ignore
+# =========================================================
+
+# -------------------------
+# OS / File Explorer
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Logs / Temporary files
+# -------------------------
+*.log
+*.tmp
+*.temp
+*.cache
+
+# -------------------------
+# Backup files
+# -------------------------
+*.bak
+*.backup
+*.old
+*~
+
+# -------------------------
+# Environment / Credentials
+# -------------------------
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+*.p12
+*.pfx
+
+# -------------------------
+# Local database files
+# -------------------------
+*.sqlite
+*.sqlite3
+*.db
+
+# -------------------------
+# PHP / Local server
+# -------------------------
+.phpunit.result.cache
+
+# XAMPP / WAMP / Laragon local files
+xampp/
+wamp/
+laragon/
+
+# -------------------------
+# Runtime uploads
+# -------------------------
+# Uncomment these if uploaded_img is used
+# only for runtime-generated uploads:
+#
+# software/ecommerce/uploaded_img/*
+# !software/ecommerce/uploaded_img/.gitkeep
+
+# -------------------------
+# System / generated folders
+# -------------------------
+node_modules/
+vendor/
+
+# -------------------------
+# Archives
+# -------------------------
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
