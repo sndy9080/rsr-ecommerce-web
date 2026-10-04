@@ -61,11 +61,11 @@ The project includes a separate administration area for managing the e-commerce 
 
 ## 🛠️ Technology
 
-* **PHP** — Application logic and dynamic web pages
-* **HTML** — Page structure
-* **CSS** — Website styling
-* **JavaScript** — Client-side interaction
-* **SQL** — Database structure and initial data
+* **PHP** - Application logic and dynamic web pages
+* **HTML** - Page structure
+* **CSS** - Website styling
+* **JavaScript** - Client-side interaction
+* **SQL** - Database structure and initial data
 
 ## 🗄️ Database
 
