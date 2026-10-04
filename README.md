@@ -8,8 +8,6 @@ A web-based e-commerce application developed as a university web project. The sy
 
 The application provides separate functionality for **buyers** and **administrators**. Buyers can explore products, manage their shopping activities, and place orders, while administrators can manage products, users, orders, accounts, and incoming messages.
 
-This project was developed as part of a web project at **Universitas Muhammadiyah Karanganyar**.
-
 ## ✨ Features
 
 ### Buyer Features
